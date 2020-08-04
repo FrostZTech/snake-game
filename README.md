@@ -6,4 +6,4 @@ A simple JS snake game
  
  
 # Things to know
-There is no mechanism to exit so yeah, you'll have to reload the page to restart, or just you know, close it!
+There is no mechanism to exit so yeah, you'll have to reload the page to restart, or just, you know, close it!
